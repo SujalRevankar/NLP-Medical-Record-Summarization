@@ -1,1 +1,1 @@
-# Medical-Record-Summarizer_NLP
+# Medical-Record-Summarizer
